@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Payton Miloser"
+  site-url: "https://www.paytonmiloser.com/"
+  navbar:
+    background: "#6F4E37"    #"#6495ED"
+    foreground: "#F2EBE2"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources+
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - assets/styles.scss
+    css: styles.css
+    toc: true
+
+resources: 
+  - CNAME

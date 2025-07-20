@@ -1,0 +1,27 @@
+---
+title: "Payton Miloser"
+about:
+  template: trestles
+  image: Headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/payton-miloser-statistician/
+    - icon: github
+      text: Github
+      href: https://github.com/miloserp
+    - icon: email
+      text: Email
+      href: mailto:miloserp@iastate.edu
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+## Hello World!
+
+
+
+## Education
+---

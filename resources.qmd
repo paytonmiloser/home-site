@@ -37,3 +37,7 @@ Here you’ll find a curated collection of what I’m currently reading, along w
 [Statistics Poetry - Larry Lesser](https://larrylesser.com/statpoetry/)
 
 ## Ways to get Involved!
+
+[Justice, Equity, Diversity, and Inclusion (JEDI) Pedagogy and Research for the Statistical Community](https://causeweb.org/jedi/)
+
+[Data Science in the LGBTQ+ Community](https://www.gaytascience.com/)

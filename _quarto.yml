@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Payton Miloser"
-  site-url: "https://www.paytonmiloser.com/"
   navbar:
     background: "#6F4E37"    #"#6495ED"
     foreground: "#F2EBE2"

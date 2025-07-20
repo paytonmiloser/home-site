@@ -5,7 +5,7 @@ project:
 website:
   title: "Payton Miloser"
   navbar:
-    background: "#6F4E37"    #"#6495ED"
+    background: "#6495ED"
     foreground: "#F2EBE2"
     right:
       - href: index.qmd

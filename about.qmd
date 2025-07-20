@@ -8,11 +8,15 @@ html:
 
 ##  Get to know me!
 
-+----------------------+-----------------------------+----------------------+
-|                      |                             |                      |
-+:====================:+:===========================:+:====================:+
-| ![](29440003.JPG)    | ![](thumbnail_IMG_9681.jpg) | ![](29430003.JPG)    |
-+----------------------+-----------------------------+----------------------+
++----------------------+-------------------------------+----------------------+
+|                      |                               |                      |
++:====================:+:=============================:+:====================:+
+| ![](29440003.JPG)    | ![](thumbnail_IMG_9681.jpg)   | ![](29430003.JPG)    |
++----------------------+-------------------------------+----------------------+
+
+Hi! My name is Payton and I am a native Michigander with a love of the outdoors, people, and all things related to Taylor Swift. Pictured above are some of my nearest and dearest, as well as some of my hobbies including Martial Arts (Hapkido, Judo) and film photography (some of the pics above are from my film camera)! I adore reading classic literature (I am a Shakespeare collector), poetry, and of course fantasy/romance novels. Not pictured, but just as important, I am an avid baker who constantly loves to bring in baked goods for my colleagues and students alike.
+
+While Statistics is my professional passion I find just as much joy in creative expression and human connection. I am constantly inspired by the stories data can tell - and the stories we tell beyond the numbers.
 
 ## Resume
 

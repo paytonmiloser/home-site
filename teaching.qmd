@@ -8,4 +8,47 @@ html:
 
 **Iowa State University**
 
+-   Instructor STAT 3260: Business Statistics II, *Summer 2025*
+
+-   Instructor STAT 3050: Engineering Statistics, *Spring 2025*
+
+-   Instructor STAT 1010: Introductory Statistics for Non-Majors, *Spring 2023, Spring 2024, Fall 2024*
+
+    ::: award-callout
+    🏆 <a href="https://www.parchment.com/u/award/b921b767a82cfa38142d3f3f2f84f15d" target="_blank" rel="noopener noreferrer"><strong>Award:</strong></a> Graduate College Teaching Excellence Award, *2024*
+    :::
+
+    ```{=html}
+    <style>
+    .award-callout {
+      background-color: #fff8dc;       /* Light warm background */
+      border-left: 4px solid #f4c542; /* Bold colored bar on the left */
+      padding: 0.25em 0.5em;
+      margin: 0.2em 0;
+      font-weight: 400;
+      font-size: 0.85em;
+      color: #6b4a00;
+      border-radius: 4px;
+      max-width: 500px;
+      box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+    }
+    </style>
+    ```
+
+-   Teaching Assistant (Lab Instructor) STAT 3260: Business Statistics II and STAT4820/5820: Regression for Social and Behavioral Research, *Fall 2022*
+
+**Grand Valley State University**
+
+-   <a href="https://www.gvsu.edu/tutoring/about-sla-33.htm" target="_blank" rel="noopener noreferrer">Structured Learning Assistant (SLA) Facillitator</a>, STAT 215: Introductory Applied Statistics, *Fall 2021, Spring 2022*
+
+-   Tutor, Statistics Drop-in Center, *Fall 2021, Spring 2022*
+
 ## Outreach & Volunteering
+
+**K-12 Work**
+
+-   Iowa State CyMath Mathematics and Statistics Tutor, *Winter 2024 - present*
+
+<!-- -->
+
+-   <a href="https://www.mathnasium.com/" target="_blank" rel="noopener noreferrer">Mathnasium</a> Instructor & Tutor, *Summer 2022*

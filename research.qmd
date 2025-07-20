@@ -7,8 +7,55 @@ html:
 
 ## Talks
 
+**Conference on Applied Statistics in Agriculture and Natural Resources, *2025***
+
+*Measuring Spatial Consistency in Simulated Crop Yield with Tensor-Product Splines and Interclass Correlation*
+
+Payton Miloser$^{1}$, Philip Dixon^2^
+
+::: award-callout
+🏆 </strong>Award:</strong> 1st Place in Graduate Student Oral Competition
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGPGxJ42V7c?si=iujp6-OZuhepKOpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+```{=html}
+<style>
+.award-callout {
+  background-color: #fff8dc;       /* Light warm background */
+  border-left: 4px solid #f4c542; /* Bold colored bar on the left */
+  padding: 0.25em 0.5em;
+  margin: 0.2em 0;
+  font-weight: 400;
+  font-size: 0.85em;
+  color: #6b4a00;
+  border-radius: 4px;
+  max-width: 500px;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+</style>
+```
+
+**Electronic Undergraduate Statistics Research Conference (eUSR), *2021***
+
+*Bio-Surveillance of COVID-19 Data using Statistical Process Control,*
+
+Payton Miloser^1^ , Paul Stephenson^2^
+
+::: award-callout
+🏆 </strong>Award:</strong> 1st Place in Student Oral Competition
+
+<https://www.causeweb.org/usproc/eusr/video-competition>
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Dsp_Hd9rhI?si=YrvVCduqB3hAXxaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
 ## Papers & Manuscripts
 
-## Awards & Honors
-
 ## Posters & Collaborations
+
+## 

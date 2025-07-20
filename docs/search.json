@@ -18,14 +18,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Iowa State University"
+    "text": "Iowa State University\n\nInstructor STAT 3260: Business Statistics II, Summer 2025\nInstructor STAT 3050: Engineering Statistics, Spring 2025\nInstructor STAT 1010: Introductory Statistics for Non-Majors, Spring 2023, Spring 2024, Fall 2024\n\n🏆 Award: Graduate College Teaching Excellence Award, 2024\n\n\nTeaching Assistant (Lab Instructor) STAT 3260: Business Statistics II and STAT4820/5820: Regression for Social and Behavioral Research, Fall 2022\n\nGrand Valley State University\n\nStructured Learning Assistant (SLA) Facillitator, STAT 215: Introductory Applied Statistics, Fall 2021, Spring 2022\nTutor, Statistics Drop-in Center, Fall 2021, Spring 2022"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Back to top"
+    "text": "Conference on Applied Statistics in Agriculture and Natural Resources, 2025\nMeasuring Spatial Consistency in Simulated Crop Yield with Tensor-Product Splines and Interclass Correlation\nPayton Miloser\\(^{1}\\), Philip Dixon2\n\n🏆 Award: 1st Place in Graduate Student Oral Competition\n\n\n\n\nElectronic Undergraduate Statistics Research Conference (eUSR), 2021\nBio-Surveillance of COVID-19 Data using Statistical Process Control,\nPayton Miloser1 , Paul Stephenson2\n\n🏆 Award: 1st Place in Student Oral Competition\nhttps://www.causeweb.org/usproc/eusr/video-competition"
   },
   {
     "objectID": "resources.html",
@@ -39,7 +39,7 @@
     "href": "teaching.html#outreach-volunteering",
     "title": "Teaching",
     "section": "Outreach & Volunteering",
-    "text": "Outreach & Volunteering"
+    "text": "Outreach & Volunteering\nK-12 Work\n\nIowa State CyMath Mathematics and Statistics Tutor, Winter 2024 - present\n\n\n\nMathnasium Instructor & Tutor, Summer 2022"
   },
   {
     "objectID": "research.html#previous-work",
@@ -88,7 +88,7 @@
     "href": "teaching.html#courses",
     "title": "Teaching",
     "section": "",
-    "text": "Iowa State University"
+    "text": "Iowa State University\n\nInstructor STAT 3260: Business Statistics II, Summer 2025\nInstructor STAT 3050: Engineering Statistics, Spring 2025\nInstructor STAT 1010: Introductory Statistics for Non-Majors, Spring 2023, Spring 2024, Fall 2024\n\n🏆 Award: Graduate College Teaching Excellence Award, 2024\n\n\nTeaching Assistant (Lab Instructor) STAT 3260: Business Statistics II and STAT4820/5820: Regression for Social and Behavioral Research, Fall 2022\n\nGrand Valley State University\n\nStructured Learning Assistant (SLA) Facillitator, STAT 215: Introductory Applied Statistics, Fall 2021, Spring 2022\nTutor, Statistics Drop-in Center, Fall 2021, Spring 2022"
   },
   {
     "objectID": "research.html#papers-manuscripts",
@@ -124,5 +124,12 @@
     "title": "Resources+",
     "section": "Paper",
     "text": "Paper"
+  },
+  {
+    "objectID": "research.html#talks",
+    "href": "research.html#talks",
+    "title": "Research",
+    "section": "",
+    "text": "Conference on Applied Statistics in Agriculture and Natural Resources, 2025\nMeasuring Spatial Consistency in Simulated Crop Yield with Tensor-Product Splines and Interclass Correlation\nPayton Miloser\\(^{1}\\), Philip Dixon2\n\n🏆 Award: 1st Place in Graduate Student Oral Competition\n\n\n\n\nElectronic Undergraduate Statistics Research Conference (eUSR), 2021\nBio-Surveillance of COVID-19 Data using Statistical Process Control,\nPayton Miloser1 , Paul Stephenson2\n\n🏆 Award: 1st Place in Student Oral Competition\nhttps://www.causeweb.org/usproc/eusr/video-competition"
   }
 ]

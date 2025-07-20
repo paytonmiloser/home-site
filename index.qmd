@@ -21,18 +21,16 @@ format:
 
 ## Hello World!
 
-
-
 ## Education
 
-**Iowa State Univeristy** | Ames, IA, USA
+**Iowa State Univeristy** \| Ames, IA, USA
 
-PhD in Statistics | Expected 2027
+PhD in Statistics \| Expected 2027
 
-M.S. in Statistics | 2024
+M.S. in Statistics \| 2024
 
-**Grand Valley State University** | Allendale, MI, USA
+**Grand Valley State University** \| Allendale, MI, USA
 
-B.S. in Statistics | 2022
+B.S. in Statistics \| 2022
 
----
+------------------------------------------------------------------------

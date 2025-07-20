@@ -1,5 +1,13 @@
 ---
 title: "About"
+resources: 
+  - Updated_Resume_May2025.pdf
+html:
+  toc: true
 ---
 
-... Something about me
+## Resume
+
+{{< pdf Updated_Resume_May2025.pdf width=800 height=600 >}}
+
+## Curriculum Vitae (CV)

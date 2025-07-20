@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "… Something about me"
+    "text": "Download PDF file."
   },
   {
     "objectID": "index.html#education",
@@ -12,5 +12,117 @@
     "title": "Payton Miloser",
     "section": "Education",
     "text": "Education\nIowa State Univeristy | Ames, IA, USA\nPhD in Statistics | Expected 2027\nM.S. in Statistics | 2024\nGrand Valley State University | Allendale, MI, USA\nB.S. in Statistics | 2022"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Iowa State University"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources+",
+    "section": "",
+    "text": "Welcome to my Academic Grocery List!\nHere you’ll find a curated collection of what I’m currently reading, along with all-time favorites that reflect my research and teaching interests. I’ve also included links to some of my favorite statistical communities—great places to learn, connect, and get involved."
+  },
+  {
+    "objectID": "teaching.html#outreach-volunteering",
+    "href": "teaching.html#outreach-volunteering",
+    "title": "Teaching",
+    "section": "Outreach & Volunteering",
+    "text": "Outreach & Volunteering"
+  },
+  {
+    "objectID": "research.html#previous-work",
+    "href": "research.html#previous-work",
+    "title": "Research",
+    "section": "Previous Work",
+    "text": "Previous Work"
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Resources+",
+    "section": "Books",
+    "text": "Books"
+  },
+  {
+    "objectID": "resources.html#web-pages",
+    "href": "resources.html#web-pages",
+    "title": "Resources+",
+    "section": "Web Pages",
+    "text": "Web Pages"
+  },
+  {
+    "objectID": "resources.html#ways-to-get-involved",
+    "href": "resources.html#ways-to-get-involved",
+    "title": "Resources+",
+    "section": "Ways to get Involved!",
+    "text": "Ways to get Involved!"
+  },
+  {
+    "objectID": "about.html#curriculum-vitae-cv",
+    "href": "about.html#curriculum-vitae-cv",
+    "title": "About",
+    "section": "Curriculum Vitae (CV)",
+    "text": "Curriculum Vitae (CV)"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Iowa State University"
+  },
+  {
+    "objectID": "research.html#papers-manuscripts",
+    "href": "research.html#papers-manuscripts",
+    "title": "Research",
+    "section": "Papers & Manuscripts",
+    "text": "Papers & Manuscripts"
+  },
+  {
+    "objectID": "research.html#awards-honors",
+    "href": "research.html#awards-honors",
+    "title": "Research",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors"
+  },
+  {
+    "objectID": "research.html#posters-collaborations",
+    "href": "research.html#posters-collaborations",
+    "title": "Research",
+    "section": "Posters & Collaborations",
+    "text": "Posters & Collaborations"
+  },
+  {
+    "objectID": "resources.html#papers",
+    "href": "resources.html#papers",
+    "title": "Resources+",
+    "section": "Papers",
+    "text": "Papers"
+  },
+  {
+    "objectID": "resources.html#paper",
+    "href": "resources.html#paper",
+    "title": "Resources+",
+    "section": "Paper",
+    "text": "Paper"
   }
 ]

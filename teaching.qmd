@@ -132,4 +132,4 @@ html:
 
 ### Proof
 
-[Spring 2025 Ratings](2025_Springratings.pdf) \| [Fall 2024 Ratings](2024_Fallratings.pdf) \| [Spring 2024 Ratings](2024_Springratings.pdf.pdf)
+[Spring 2025 Ratings](2025_Springratings.pdf) \| [Fall 2024 Ratings](2024_Fallratings.pdf) \| [Spring 2024 Ratings](2024_Springratings.pdf)

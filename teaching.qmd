@@ -4,7 +4,7 @@ html:
   toc: true
 ---
 
-## Courses 
+## Courses
 
 **Iowa State University**
 
@@ -52,3 +52,84 @@ html:
 <!-- -->
 
 -   <a href="https://www.mathnasium.com/" target="_blank" rel="noopener noreferrer">Mathnasium</a> Instructor & Tutor, *Summer 2022*
+
+## 📝 What My Students Say
+
+`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"`{=html}
+
+```{=html}
+<style>
+  .bulletin-board {
+    background: url('corkboard-texture.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 30px;
+    border-radius: 12px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+.note {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.2);
+  font-style: italic;
+  position: relative;
+  font-family: sans-serif;
+
+  /* ✨ Wrapping & box behavior */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow: visible;
+  height: auto;
+  min-height: 120px;
+  box-sizing: border-box;
+  line-height: 1.5;
+}
+
+
+.note::before {
+  content: "\f08d"; /* Font Awesome pushpin */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  font-size: 18px;
+  color: #b22222;
+}
+
+  /* 🎨 Sticky note colors */
+  .note-yellow { background-color: #fff9b1; }
+  .note-pink   { background-color: #ffd6e0; }
+  .note-green  { background-color: #d1f7c4; }
+  .note-blue   { background-color: #d0ecff; }
+  .note-purple { background-color: #f0d8ff; }
+  .note-orange { background-color: #ffe4b3; }
+</style>
+```
+
+::::::: bulletin-board
+::: {.note .note-yellow}
+"Payton's easy going nature and the effort she put into class to help us learn. She deserves more credit for her hard work. She made stats understandable to me and not scary." - Spring 2023
+:::
+
+::: {.note .note-pink}
+"Payton is a lovely instructor, please pay her a million dollars and give her a degree asap." - Spring 2023
+:::
+
+::: {.note .note-purple}
+"I really liked the format: it was consistent, and the labs and homework more than prepared me for the exams. Despite being in a big room and this being a gen-ed course that a lot of students have to take, I thought the lectures were engaging! The instructor seemed to enjoy teaching and was almost always in a good mood, etc." - Spring 2024
+:::
+
+::: {.note .note-blue}
+"...despite not being super interested in math/more quantitative stuff, I thought the course was well-designed, and I might even say I enjoy statistics a little bit now. ." - Fall 2024
+:::
+:::::::
+
+### Proof
+
+[Spring 2025 Ratings](2025_Springratings.pdf) \| [Fall 2024 Ratings](2024_Fallratings.pdf) \| [Spring 2024 Ratings](2024_Springratings.pdf.pdf)

@@ -26,11 +26,23 @@ Welcome to my Academic Grocery List!
 
 Here you’ll find a curated collection of what I’m currently reading, along with all-time favorites that reflect my research and teaching interests. I’ve also included links to some of my favorite statistical communities—great places to learn, connect, and get involved.
 
-## Papers 
+## Papers
+
+Heaton, M.J., Datta, A., Finley, A.O. *et al.* A Case Study Competition Among Methods for Analyzing Large Spatial Data. *JABES* **24**, 398–425 (2019). https://doi.org/10.1007/s13253-018-00348-w
+
+Dacia, Sheffield L.; Brooks, Sierra; Conway, Basil M.; and Nguyen, Ha (2021) "Teaching Statistics for Social Justice - An Autoethnographic Research Report," Georgia Educational Researcher 18:1, Article 3. [Link](https://digitalcommons.georgiasouthern.edu/gerjournal/vol18/iss1/3/)
+
+Zhang, I. (Yunyi), Jia, Y. (Ruby), Cheng, X. (Alicia), Son, J. Y., & Stigler, J. W. (2025). Empowering Novice Programmers: Redesigning Documentation for Effective Informal Learning. *Journal of Educational Computing Research*, *63*(3), 695-727. <https://doi.org/10.1177/07356331241311505> (Original work published 2025)
 
 ## Books
 
+[The THEORY Book](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) - Casella and Berger's Statistical Inference
+
+Wood, S.N. (2017). Generalized Additive Models: An Introduction with R, Second Edition (2nd ed.). Chapman and Hall/CRC. <https://doi.org/10.1201/9781315370279>
+
 [Data Feminism](https://data-feminism.mitpress.mit.edu/)
+
+Hierarchical Modeling and Analysis for Spatial Data By [Sudipto Banerjee](https://www.routledge.com/search?author=Sudipto Banerjee "Search for more titles by Sudipto Banerjee"), [Bradley P. Carlin](https://www.routledge.com/search?author=Bradley P. Carlin "Search for more titles by Bradley P. Carlin"), [Alan E. Gelfand](https://www.routledge.com/search?author=Alan E. Gelfand "Search for more titles by Alan E. Gelfand")
 
 ## Web Pages
 

@@ -7,11 +7,11 @@ html:
 
 ## Talks
 
-**Conference on Applied Statistics in Agriculture and Natural Resources, *2025***
+1. **Conference on Applied Statistics in Agriculture and Natural Resources, *2025***
 
 *Measuring Spatial Consistency in Simulated Crop Yield with Tensor-Product Splines and Interclass Correlation*
 
-Payton Miloser$^{1}$, Philip Dixon^2^
+Payton Miloser$^{1}$, [Philip Dixon](https://www.stat.iastate.edu/people/philip-dixon/cv.pdf)^2^
 
 ::: award-callout
 🏆 </strong>Award:</strong> 1st Place in Graduate Student Oral Competition
@@ -38,11 +38,11 @@ Payton Miloser$^{1}$, Philip Dixon^2^
 </style>
 ```
 
-**Electronic Undergraduate Statistics Research Conference (eUSR), *2021***
+2. **Electronic Undergraduate Statistics Research Conference (eUSR), *2021***
 
 *Bio-Surveillance of COVID-19 Data using Statistical Process Control,*
 
-Payton Miloser^1^ , Paul Stephenson^2^
+Payton Miloser^1^ , [Paul Stephenson](https://www.linkedin.com/in/paul-stephenson-393b73b5)^2^
 
 ::: award-callout
 🏆 </strong>Award:</strong> 1st Place in Student Oral Competition
@@ -54,8 +54,30 @@ Payton Miloser^1^ , Paul Stephenson^2^
 
 </iframe>
 
+
+3. Miloser, P., Layman, N., & Roberts, A., Student Scholars Day (SSD), “Prime Labeling of
+Friendship Graphs”, Grand Valley State University, Allendale, Michigan, USA. (April 10,
+2019).
+
 ## Papers & Manuscripts
 
-## Posters & Collaborations
+***[Masters Thesis](https://dr.lib.iastate.edu/handle/20.500.12876/105897):***  “Assessing Spatial Consistency using Spatio-Temporal Interactions with Generalized Additive Models”. Miloser $^1$, Dixon $^2$. June 2024.
 
+***[McNair Thesis](https://scholarworks.gvsu.edu/mcnair_manuscripts/11/):***  “Bio-Surveillance of Covid-19 Data using Statistical Process Control”. Miloser $^1$, Stephenson $^2$. 2022.
+
+## Posters & Collaborations
+1. Emily Lopez, Jaanve Mehta, [Karin Dorman Ph.D.](https://www.bcb.iastate.edu/people/karin-dorman/cv.pdf), Ethan Bush, Payton Miloser. “Assessing
+uniformity of coverage in PCR-amplified nanopore sequencing to diagnose avian infectious
+bronchitis virus in chickens”. Iowa State University, Ames, Iowa, USA. (August 3, 2023)
+
+2. Hazer Becic, Lavion Sumerlin, [Emily Berg Ph.D.](https://www.stat.iastate.edu/people/emily-berg/cv.pdf), Zirou Zhou, Payton Miloser. “Small Area
+Estimation for Poverty Rate Indicators”. Iowa State University, Ames, Iowa, USA. (August 3,
+2023).
+
+3. Cathryn Barbour, Blanca Parker, [Heike Hoffman Ph.D.](https://heike.github.io/), [Alicia Carriquiry Ph.D.](https://www.stat.iastate.edu/people/alicia-carriquiry/cv.pdf), Payton
+Miloser. “Estimating Probability of True Hits”. Iowa State University, Ames, Iowa, USA.
+(August 3, 2023).
+
+4. Miloser, P. McNair Scholars Program. “Bio-Surveillance of Covid-19 Data using Statistical
+Process Control”, Grand Valley State University, Allendale, Michigan, USA. (July 16, 2021).
 ## 

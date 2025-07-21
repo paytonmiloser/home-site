@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research centers on developing and applying statistical methods to better understand complex ecological and environmental systems. I am especially interested in geospatial data analysis, non-parametric methods, and Bayesian modeling, which provide powerful tools for capturing spatial structure and uncertainty in ecological processes. My work often engages with real-world data from environmental and agricultural contexts, where flexible modeling and thoughtful inference are essential.\nI am currently working with Dr. Jarad Niemi for my Ph.D."
+    "text": "My research centers on developing and applying statistical methods to better understand complex ecological and environmental systems. I am especially interested in geospatial data analysis, non-parametric methods, and Bayesian modeling, which provide powerful tools for capturing spatial structure and uncertainty in ecological processes. My work often engages with real-world data from environmental and agricultural contexts, where flexible modeling and thoughtful inference are essential.\nI am currently working with Dr. Jarad Niemi for my Ph.D.\nSee my Github for research materials and fun projects!"
   },
   {
     "objectID": "resources.html",
@@ -74,7 +74,7 @@
     "href": "about.html#curriculum-vitae-cv",
     "title": "About",
     "section": "Curriculum Vitae (CV)",
-    "text": "Curriculum Vitae (CV)"
+    "text": "Curriculum Vitae (CV)\nComing Soon!"
   },
   {
     "objectID": "about.html#resume",
@@ -159,5 +159,19 @@
     "title": "Teaching",
     "section": "📝 What My Students Say",
     "text": "📝 What My Students Say\n\n\n\n\n“Payton’s easy going nature and the effort she put into class to help us learn. She deserves more credit for her hard work. She made stats understandable to me and not scary.” - Spring 2023\n\n\n“Payton is a lovely instructor, please pay her a million dollars and give her a degree asap.” - Spring 2023\n\n\n“I really liked the format: it was consistent, and the labs and homework more than prepared me for the exams. Despite being in a big room and this being a gen-ed course that a lot of students have to take, I thought the lectures were engaging! The instructor seemed to enjoy teaching and was almost always in a good mood, etc.” - Spring 2024\n\n\n“…despite not being super interested in math/more quantitative stuff, I thought the course was well-designed, and I might even say I enjoy statistics a little bit now. .” - Fall 2024\n\n\n\nProof\nSpring 2025 Ratings | Fall 2024 Ratings | Spring 2024 Ratings"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Payton Miloser",
+    "section": "",
+    "text": "Welcome! I’m Payton—statistician, educator, and working at the intersection of data, dirt, and decision-making. I work on research questions that matter to land managers and scientists, especially in environmental and agricultural settings. You’ll find my work shaped by real-world data, practical needs, and lots of curiosity!\nCurrently I am a Ph.D. Student at Iowa State University working with Dr. Jarad Niemi.\nResearch Teaching"
+  },
+  {
+    "objectID": "index.html#hello-world",
+    "href": "index.html#hello-world",
+    "title": "Payton Miloser",
+    "section": "",
+    "text": "Welcome! I’m Payton—statistician, educator, and working at the intersection of data, dirt, and decision-making. I work on research questions that matter to land managers and scientists, especially in environmental and agricultural settings. You’ll find my work shaped by real-world data, practical needs, and lots of curiosity!\nCurrently I am a Ph.D. Student at Iowa State University working with Dr. Jarad Niemi.\nResearch Teaching"
   }
 ]

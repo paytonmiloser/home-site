@@ -21,7 +21,7 @@ format:
 
 ## Hello World!
 
-Welcome! I’m Payton—statistician, educator, and working at the intersection of data, dirt, and decision-making. I work on research questions that matter to land managers and scientists, especially in environmental and agricultural settings. You’ll find my work shaped by real-world data, practical needs, and lots of curiosity!
+Welcome! I’m Payton—statistician, educator, and working at the intersection of data, dirt, and decision-making. You’ll find my work shaped by real-world data, practical needs, and lots of curiosity!
 
 <a href="research.qmd" class="button-link">Research</a> <a href="teaching.qmd" class="button-link">Teaching</a>
 
